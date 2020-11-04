@@ -1,0 +1,6 @@
+framework module LXAltertTooL {
+  umbrella header "LXAltertTooL.h"
+
+  export *
+  module * { export * }
+}
